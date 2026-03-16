@@ -33,6 +33,6 @@ Interactive Power BI dashboard(download):
 
 ## Dataset
 
-Source: [Zara Sales Dataset](https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara)
-License: MIT
-Dataset snapshot date: February 19, 2024
+- Source: [Zara Sales Dataset](https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara)
+- License: MIT
+- Dataset snapshot date: February 19, 2024
